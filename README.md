@@ -48,7 +48,12 @@ Specializing in DMA (Direct Memory Access) resources, dumpers, and custom tools.
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OkzTy&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OkzTy&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkzTy&theme=radical" />
+</p>
 
 ---
 
