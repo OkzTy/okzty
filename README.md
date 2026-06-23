@@ -9,7 +9,7 @@
 
 ### About Me
 
-**OkzTy** - Reverse Engineer & Cheat Developer based in Paris, France 🇫🇷
+**OkzTy** - Reverse Engineer & Cheat Developer based in Paris, France
 
 Specializing in DMA (Direct Memory Access) resources, dumpers, and custom tools. I develop cheats using DMA Hardware for popular games including CS2, Escape from Tarkov, Rainbow Six Siege, DayZ, and War Thunder. Passionate about low-level programming, memory manipulation, and creating clean, powerful C#/.NET tools for game reverse engineering.
 
