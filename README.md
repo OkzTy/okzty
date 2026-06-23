@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔥 Banner -->
-<img src="https://raw.githubusercontent.com/OkzTy/okzty/main/oJ2im.jpg" width="100%" style="border-radius: 12px;" alt="OkzTy Banner">
+<img src="https://github.com/OkzTy/okzty/blob/main/dfsqdsqd.png">
 
 </div>
 
