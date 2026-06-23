@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- 🔥 Top Banner -->
 <img src="https://raw.githubusercontent.com/OkzTy/okzty/main/dfsqdsqd.png" alt="OkzTy Banner" width="100%" />
 
@@ -34,6 +32,10 @@
 🧠 &nbsp;Always exploring the kernel, PCIe DMA, and firmware-level exploits.
 
 <br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,discord&theme=dark" height="55" alt="Environment" />
+</div>
 
 ---
 
@@ -80,6 +82,9 @@
 
 ---
 
+<!-- Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,100:FF9100&height=4&section=header&text=&fontSize=0" width="100%" />
+
 ### 🖥️ Hardware & DMA
 
 <table>
@@ -99,6 +104,9 @@
 </table>
 
 ---
+
+<!-- Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,100:FF9100&height=4&section=header&text=&fontSize=0" width="100%" />
 
 ### 🎮 Games I Work On
 
@@ -153,6 +161,10 @@
   &nbsp;
   <a href="https://ko-fi.com/okzty">
     <img src="https://img.shields.io/badge/Ko--fi-00E676?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1A1A1A" alt="Ko-fi" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/A2pnp7mmQB">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1A1A" alt="Discord" />
   </a>
 </p>
 
