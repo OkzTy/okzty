@@ -25,7 +25,7 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 &nbsp;I'm a **Reverse Engineer & Cheat Developer** based in Paris, France                  
+💡 &nbsp;I'm a **Reverse Engineer & Cheat Developer** based in Paris, France                      
 🎯 &nbsp;I specialize in **DMA** (Direct Memory Access) resources, dumpers, and custom tools.<br/>
 🎮 &nbsp;I develop cheats using **DMA Hardware** for games like **CS2**, **Escape from Tarkov**, **Rainbow Six Siege**, **DayZ**, and **War Thunder**.<br/>
 🔬 &nbsp;Passionate about memory manipulation, kernel exploits, and building high-performance **C++ tools** for game reverse engineering.<br/>
@@ -79,6 +79,12 @@
 <img src="https://img.shields.io/badge/Ghidra-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Ghidra" />&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,visualstudio,git,cmake&theme=dark" height="55" alt="Languages" />
+</div>
 
 ---
 
