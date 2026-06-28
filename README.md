@@ -8,7 +8,7 @@
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> Hey there! I'm **OkzTy**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=435&lines=DMA+Enthusiast;Kernel+Explorer;Reverse+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=435&lines=DMA;Kernel+Explorer;Reverse+Engineer" alt="Typing SVG" />
 </div>
 
 <br/>
